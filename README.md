@@ -13,7 +13,7 @@ Lege einen String mit dem Inhalt `“  Hello World!  ”` an (enthält vorne und
   * ohne Leerzeichen zu Beginn des Texts
 * Gib den String 15 mal wiederholt mit einem Zeilenumbruch zum Trennen aus (ohne die Codezeile 15 mal zu kopieren ;))
 
-Suche auf der ![offiziellen Dokumentations-Seite von Strings](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html) nach nützlichen Methoden.
+Suche auf der [offiziellen Dokumentations-Seite von Strings](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html) nach nützlichen Methoden.
 
 ---------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ Create a variable of type String with `“  Hello World!  ”` as its content (c
   * without the leading spaces
 * Repeat the printed String 15 times seperated with linebreaks (don't copy the code 15 times)
 
-You might find the ![official documentation of the String class](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html) helpful.
+You might find the [official documentation of the String class](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html) helpful.
